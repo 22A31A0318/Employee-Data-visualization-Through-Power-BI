@@ -33,3 +33,8 @@ Our company has 92 employees in India and 91 in New Zealand. The Procurement dep
 # Dash Board 
 <a href="https://github.com/22A31A0318/Employee-Data-visualization-Through-Power-BI/blob/main/Power%20BI%20Project%201.pdf"> Report PDF
 
+<a href="https://github.com/22A31A0318/Employee-Data-visualization-Through-Power-BI/blob/main/Employe%20Data%20Dash%20Board.png"> Dash Board
+
+
+# Conclusion
+there's a relatively balanced gender distribution, with males and females represented across the company. Department distribution shows Procurement having the highest number of employees. Performance ratings indicate most employees fall into the average category, while salary trends show an average salary of $77K with variations across departments like HR and Sales. These insights can inform HR strategies and business decisions.
